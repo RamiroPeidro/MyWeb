@@ -86,12 +86,9 @@ html, body{
 .header-arrow img{
     max-width:200px;
     position: relative;
-    top: 60px!important;
-    left: 110px!important;
+    top: 100px!important;
     transform: rotate(-90deg)!important;
 }
-
-
 
 
 @media (max-width: 768px){
