@@ -26,6 +26,12 @@ html, body{
     font-size:80px
 }
 
+.img-burbujas{
+    width:100%;
+    max-width:100px;
+    height:auto;
+}
+
 
 @media (min-width:1200px){
     .header-img{
