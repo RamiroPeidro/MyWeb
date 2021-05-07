@@ -118,5 +118,7 @@ html, body{
     .header-arrow img{
         display: none;
     }
-    
+    .burbuja-padding{
+        margin-bottom: 130px !important;
+    }
 }
